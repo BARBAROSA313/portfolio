@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 50px;;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    height: 500px;
+    padding-top: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.about-me{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(90deg ,red,green);
+    border-radius: 5px;
+    padding: 3px;
+}
+.about-me:hover{
+    color:rgb(246, 246, 250);
+    background-color: rgb(6, 186, 246);
+}
+.h2{
+    color: ;
+}
+.single-experience{
+    box-shadow: 5px 5px 10px green;
+    border-radius: 5px;
+}
+.experience{
+    padding-left: 50px;
+}
+#left-stack{
+    border-left: 5px solid red;
+}
+
+#right-stack{
+    border-left: 5px solid rgb(9, 154, 238);
+}
+.footer h2{
+    color: brown;
+    text-align: center;
+    background-color:chartreuse;
+}
